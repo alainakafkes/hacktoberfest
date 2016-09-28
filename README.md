@@ -15,4 +15,5 @@ Submit 4 pull requests to different open source projects in the month of October
 - [Nteract](https://github.com/nteract/nteract)
 
 ## Progress
-Coming soon!
+### Nteract
+[Issue #816](https://github.com/nteract/nteract/issues/816)
