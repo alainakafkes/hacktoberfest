@@ -19,3 +19,5 @@ Submit 4 pull requests to different open source projects in the month of October
 [Issue #816: CodeMirror paren matching missing](https://github.com/nteract/nteract/issues/816) <br/>
 Pull request submitted on 3 October 2016. <br/>
 Pull request merged on 3 October 2016. Hype!
+
+### Chi Tech Diversity
