@@ -20,4 +20,7 @@ Submit 4 pull requests to different open source projects in the month of October
 Pull request submitted on 3 October 2016. <br/>
 Pull request merged on 3 October 2016. Hype!
 
-### Chi Tech Diversity
+### Melissa AI
+[Issue #66: Include five new jokes](https://github.com/Melissa-AI/Melissa-Core/issues/66) <br/>
+Pull request submitted on 4 October 2016. <br/>
+Pull request merged on 4 October 2016.
