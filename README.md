@@ -24,3 +24,17 @@ Pull request merged on 3 October 2016. Hype!
 [Issue #66: Include five new jokes](https://github.com/Melissa-AI/Melissa-Core/issues/66) <br/>
 Pull request submitted on 4 October 2016. <br/>
 Pull request merged on 4 October 2016.
+
+### Data Structures & Algorithms
+[Issue #1: Python version of data structures & algorithms](https://github.com/saru95/DSA/issues/1)
+Pull request submitted on 5 October 2016. <br/>
+Pull request merged on 6 October 2016.
+
+### HackNorthwestern Hack Nights
+No real issue here; I just gave a talk at our internship/interview prep event and added my slides & other resource!
+Pull request submitted on 12 October 2016. <br/>
+Pull request merged on 12 October 2016.
+
+### Atom: Markdown Preview
+[Issue #423: Open preview automatically](https://github.com/atom/markdown-preview/issues/423)
+Currently working on this. <br/>
