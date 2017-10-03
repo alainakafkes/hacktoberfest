@@ -13,6 +13,7 @@ WORDS={'who_are_you': {'groups': [['who', 'are', 'you']]},
        'how_are_you': {'groups': [['how', 'are', 'you']]},
        'are_you_up': {'groups': [['you', 'up']]},
        'undefined': {'groups': []},
+       'gender': {'groups': [['whats','your','gender']]},
       }
 
 def who_are_you(text):
@@ -48,3 +49,8 @@ def are_you_up(text):
 
 def undefined(text):
     tts('I dont know what that means!')
+
+def whats_your_gender(text):
+    gender = ['Male','Female','Other']
+    tts('My gender category is: ' + random.choice(gender))
+       
